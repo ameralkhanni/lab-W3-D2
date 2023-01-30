@@ -1,0 +1,53 @@
+.name{
+    font-size: 50px;
+    margin: 5%;
+    margin-bottom: 4%;
+    text-align: center;
+}
+.cont{
+    font-size: 28px;
+margin-left: 4%;
+text-align: center;
+}
+.cont2{
+    font-size: 25px;
+    margin-left: 5%;
+    text-align: right; 
+}
+h2{
+    font-size: 30px;
+    margin-left: 5%;
+    margin-bottom: 2%;
+
+}
+p{
+    font-size: 25px;
+}
+li{
+    font-size: 25px;
+margin-bottom: 2%;
+margin-left: 6%;
+
+}
+.tee{
+    margin-left: 6%;
+margin-right: 6%;
+
+}
+hr{
+    width: 90%;
+    margin: 5%;
+    margin-bottom: 2%;
+
+}
+.hrr{
+    width: 100%;
+margin: 0%;
+}
+.dat{
+    text-align: right;
+    margin-right: 5%;
+}
+i{
+margin-left: 2%;
+}
